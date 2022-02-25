@@ -7,3 +7,5 @@ Functions Provided:
 4. Step3(): Calculate V_plus and V_minus array according to the impacts. Impacts value must be boolean (True/False).
 5. Step4(): Calculating Eucledian distance for the items and the performance score.
 6. Step5(): Calculating Rank of the items on the base of the performance score.
+7. calc(): Function to do all of the things in one function sequentially.
+__Calc() returns rank->list and performance_score->list.__
